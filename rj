@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will You Marry Me?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Will You Marry Me? 💍</h1>
+        <button id="yesButton">Yes ❤️</button>
+        <button id="noButton">No ❌</button>
+    </div>
+    <div id="loveMessage" class="hidden">
+        <h2>I Love You Too! ❤️❤️</h2>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
